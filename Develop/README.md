@@ -1,12 +1,12 @@
 
 
-  ![license](https://img.shields.io/badge/License-MIT-blue)
+  ![license](https://img.shields.io/badge/License-MIT-brightgreen)
 
-  # This App
+  # Project App
  
 
   ## Description
-  This app is an app
+  This project is an app
 
   ## Table of Contents
 
@@ -21,7 +21,7 @@
   npm i
 
   ## Usage
-  Use the app please
+  It can be used as an app
 
   ## License
   This application uses the MIT license
@@ -32,7 +32,7 @@ MIT https://choosealicense.com/licenses/mit/
 
 
   ## Questions 
-  Email me to contribute
+  Email me bout it
 
   ## Tests
   npm test
