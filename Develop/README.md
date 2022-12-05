@@ -2,37 +2,43 @@
 
   ![license](https://img.shields.io/badge/License-MIT-brightgreen)
 
-  # Project App
+  # This App
  
 
   ## Description
-  This project is an app
+  This app
 
   ## Table of Contents
 
-  - [Installation](#Installation)
-  - [Usage](#Usage)
-  - [License](#License)
-  - [Credit](#Credit)
-  - [Questions](#Questions)
-  - [Tests](#Tests)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Questions](#questions)
+  - [Tests](#tests)
 
   ## Installation 
-  npm i
+  To install necessary dependencies, run the following command:
+  
+npm i
 
   ## Usage
-  It can be used as an app
+  It is a repo
 
   ## License
-  This application uses the MIT license
+  This application uses the MIT license.
   
-MIT https://choosealicense.com/licenses/mit/
+MIT: https://choosealicense.com/licenses/mit/
 
-  ## Credit
+  ## Contributing
+  Email me 
 
-
-  ## Questions 
-  Email me bout it
+  ## Questions
+  If you have any questions about the repo, open an issue or 
+  contact me directly at ryanmbelcher86@gmail.com. You can find more of my work at 
+  https://github.com/ryanmbelcher.
 
   ## Tests
-  npm test
+  To run tests, run the following command:
+  
+npm test
