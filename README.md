@@ -2,6 +2,8 @@
 
 ## Description 
 
+![node.js badge](https://img.shields.io/badge/-NODE.JS-blue)
+
 This app allows the user to generate a README file right in the terminal using node.js. The user will be presented with a series of prompts in the terminal asking a series of questions that will assist in the task of generating the file. 
 
 ## Installation
@@ -19,6 +21,9 @@ The user must have node.js and inquirer.js installed.
 My boot camp class was great help on this project. Big shout out to Eric Kim, Justin Pauldo, Layne Nigro, and Leon Forsythe.
 
  ## License
+
+![license](https://img.shields.io/badge/License-MIT-yellowgreen)
+
  MIT License
 
 Copyright (c) 2022 RyanMBelcher
