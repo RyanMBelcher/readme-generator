@@ -12,6 +12,8 @@ The user must have node.js and inquirer.js installed.
 
 ## Usage
 
+https://drive.google.com/file/d/1v8ZM2IDoNxtcLmz_ee3lYXOAP2SICJVL/view Links to an external site.
+
  ![screenshot of terminal](./images/terminal.png)
 
  ![screenshot of app](./images/readme.png)
